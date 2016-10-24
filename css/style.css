@@ -227,9 +227,9 @@ div {
         #apDiv24 {
 	position: absolute;
 	width: 1000px;
-	height: 50px;
+	height: 130px;
 	z-index: 1;
-	left: 10px;
+	left: 20px;
 	top: 100px;
 	color: #006680;
 	border-top-color: #006680;
